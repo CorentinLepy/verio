@@ -1,3 +1,4 @@
+VERSIONNNING-TP1
 {\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf400
 {\fonttbl\f0\froman\fcharset0 Times-Roman;}
 {\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
